@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OJS AI Reviewer\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+
+msgid "plugins.generic.aiReviewer.displayName"
+msgstr "AI Reviewer"
+
+msgid "plugins.generic.aiReviewer.description"
+msgstr "Un connector per ajudar a la revisió de manuscrits mitjançant IA."
+
+msgid "plugins.generic.aiReviewer.settings.apiKey"
+msgstr "Clau de l'API"
+
+msgid "plugins.generic.aiReviewer.settings.apiKey.description"
+msgstr "Introduïu la vostra clau API secreta per al model d'IA seleccionat."
+
+msgid "plugins.generic.aiReviewer.settings.aiModel"
+msgstr "Model AI"
+
+msgid "plugins.generic.aiReviewer.button.description"
+msgstr "Genereu automàticament una revisió per a aquest manuscrit mitjançant intel·ligència artificial."
+
+msgid "plugins.generic.aiReviewer.button.generate"
+msgstr "Genera una revisió d'IA"
+
+msgid "plugins.generic.aiReviewer.button.alert"
+msgstr "Aquesta funció és actualment un marcador de posició per a la futura integració d'IA. Aviat!"
+
+msgid "plugins.generic.aiReviewer.button.loading"
+msgstr "S'està carregant la revisió de l'IA... Això pot trigar fins a 60 segons."
+
+msgid "plugins.generic.aiReviewer.button.saved"
+msgstr "La revisió AI s'ha desat com a fitxer d'enviament. Actualitzeu aquesta pàgina per veure-la a la graella de fitxers de revisió."
+
+msgid "plugins.generic.aiReviewer.language"
+msgstr "Llenguatge de sortida"
+
+msgid "plugins.generic.aiReviewer.settings.enableActivityLog"
+msgstr "Registre la generació de la revisió d'AI al registre d'activitats"
+
+
+msgid "plugins.generic.aiReviewer.settings.customPrompt"
+msgstr "Instruccions de sol·licitud personalitzades (opcional)"
+
+msgid "plugins.generic.aiReviewer.settings.customPrompt.description"
+msgstr "Introduïu instruccions personalitzades o una rúbrica específica per al revisor d'IA. Si es deixa en blanc, s'utilitzarà el format de revisió acadèmica predeterminat de 7 punts. Podeu especificar àrees d'enfocament o preguntes específiques per fer a l'IA."
+

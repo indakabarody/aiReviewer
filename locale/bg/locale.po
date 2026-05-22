@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OJS AI Reviewer\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bg\n"
+
+msgid "plugins.generic.aiReviewer.displayName"
+msgstr "AI Рецензент"
+
+msgid "plugins.generic.aiReviewer.description"
+msgstr "Плъгин за подпомагане на прегледа на ръкописи с помощта на AI."
+
+msgid "plugins.generic.aiReviewer.settings.apiKey"
+msgstr "API ключ"
+
+msgid "plugins.generic.aiReviewer.settings.apiKey.description"
+msgstr "Въведете вашия таен API ключ за избрания AI модел."
+
+msgid "plugins.generic.aiReviewer.settings.aiModel"
+msgstr "AI модел"
+
+msgid "plugins.generic.aiReviewer.button.description"
+msgstr "Автоматично генерирайте рецензия за този ръкопис с помощта на изкуствен интелект."
+
+msgid "plugins.generic.aiReviewer.button.generate"
+msgstr "Генериране на AI преглед"
+
+msgid "plugins.generic.aiReviewer.button.alert"
+msgstr "Тази функция в момента е заместител за бъдещата интеграция на AI. Очаквайте скоро!"
+
+msgid "plugins.generic.aiReviewer.button.loading"
+msgstr "Зарежда се AI Review... Това може да отнеме до 60 секунди."
+
+msgid "plugins.generic.aiReviewer.button.saved"
+msgstr "Прегледът на AI е запазен като файл за изпращане. Моля, опреснете тази страница, за да я видите в мрежата за преглед на файлове."
+
+msgid "plugins.generic.aiReviewer.language"
+msgstr "Изходен език"
+
+msgid "plugins.generic.aiReviewer.settings.enableActivityLog"
+msgstr "Генериране на AI преглед на журнала в регистъра на дейностите"
+
+
+msgid "plugins.generic.aiReviewer.settings.customPrompt"
+msgstr "Персонализирани подканващи инструкции (по избор)"
+
+msgid "plugins.generic.aiReviewer.settings.customPrompt.description"
+msgstr "Въведете персонализирани инструкции или конкретна рубрика за AI Reviewer. Ако се остави празно, ще се използва стандартният 7-точков формат за академичен преглед. Можете да посочите области на фокус или конкретни въпроси, които да зададете на AI."
+

@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OJS AI Reviewer\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ka\n"
+
+msgid "plugins.generic.aiReviewer.displayName"
+msgstr "AI მიმომხილველი"
+
+msgid "plugins.generic.aiReviewer.description"
+msgstr "დანამატი, რომელიც ხელს უწყობს ხელნაწერის მიმოხილვას ხელოვნური ინტელექტის გამოყენებით."
+
+msgid "plugins.generic.aiReviewer.settings.apiKey"
+msgstr "API გასაღები"
+
+msgid "plugins.generic.aiReviewer.settings.apiKey.description"
+msgstr "შეიყვანეთ თქვენი საიდუმლო API გასაღები შერჩეული AI მოდელისთვის."
+
+msgid "plugins.generic.aiReviewer.settings.aiModel"
+msgstr "AI მოდელი"
+
+msgid "plugins.generic.aiReviewer.button.description"
+msgstr "ამ ხელნაწერის მიმოხილვის ავტომატურად გენერირება ხელოვნური ინტელექტის გამოყენებით."
+
+msgid "plugins.generic.aiReviewer.button.generate"
+msgstr "შექმენით AI მიმოხილვა"
+
+msgid "plugins.generic.aiReviewer.button.alert"
+msgstr "ეს ფუნქცია ამჟამად არის ადგილი სამომავლო AI ინტეგრაციისთვის. მალე!"
+
+msgid "plugins.generic.aiReviewer.button.loading"
+msgstr "იტვირთება AI მიმოხილვა... ამას შეიძლება დასჭირდეს 60 წამამდე."
+
+msgid "plugins.generic.aiReviewer.button.saved"
+msgstr "AI მიმოხილვა შენახულია წარდგენის ფაილად. გთხოვთ, განაახლოთ ეს გვერდი, რომ ნახოთ იგი მიმოხილვის ფაილების ბადეში."
+
+msgid "plugins.generic.aiReviewer.language"
+msgstr "გამომავალი ენა"
+
+msgid "plugins.generic.aiReviewer.settings.enableActivityLog"
+msgstr "შესვლა AI მიმოხილვის გენერაცია აქტივობის ჟურნალში"
+
+
+msgid "plugins.generic.aiReviewer.settings.customPrompt"
+msgstr "მორგებული მოთხოვნის ინსტრუქციები (სურვილისამებრ)"
+
+msgid "plugins.generic.aiReviewer.settings.customPrompt.description"
+msgstr "შეიყვანეთ მორგებული ინსტრუქციები ან კონკრეტული რუბრიკა AI Reviewer-ისთვის. თუ ცარიელი დარჩა, გამოყენებული იქნება ნაგულისხმევი 7-პუნქტიანი აკადემიური მიმოხილვის ფორმატი. თქვენ შეგიძლიათ მიუთითოთ ფოკუსის სფეროები ან კონკრეტული კითხვები, რომ დაუსვათ AI."
+

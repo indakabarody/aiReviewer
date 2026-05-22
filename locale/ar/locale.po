@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OJS AI Reviewer\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ar\n"
+
+msgid "plugins.generic.aiReviewer.displayName"
+msgstr "مراجع الذكاء الاصطناعي"
+
+msgid "plugins.generic.aiReviewer.description"
+msgstr "مكون إضافي للمساعدة في مراجعة المخطوطة باستخدام الذكاء الاصطناعي."
+
+msgid "plugins.generic.aiReviewer.settings.apiKey"
+msgstr "مفتاح واجهة برمجة التطبيقات"
+
+msgid "plugins.generic.aiReviewer.settings.apiKey.description"
+msgstr "أدخل مفتاح API السري الخاص بك لنموذج الذكاء الاصطناعي المحدد."
+
+msgid "plugins.generic.aiReviewer.settings.aiModel"
+msgstr "نموذج الذكاء الاصطناعي"
+
+msgid "plugins.generic.aiReviewer.button.description"
+msgstr "إنشاء مراجعة لهذه المخطوطة تلقائيًا باستخدام الذكاء الاصطناعي."
+
+msgid "plugins.generic.aiReviewer.button.generate"
+msgstr "إنشاء مراجعة الذكاء الاصطناعي"
+
+msgid "plugins.generic.aiReviewer.button.alert"
+msgstr "تعد هذه الميزة حاليًا عنصرًا نائبًا لتكامل الذكاء الاصطناعي المستقبلي. قريباً!"
+
+msgid "plugins.generic.aiReviewer.button.loading"
+msgstr "جارٍ تحميل مراجعة الذكاء الاصطناعي... قد يستغرق هذا ما يصل إلى 60 ثانية."
+
+msgid "plugins.generic.aiReviewer.button.saved"
+msgstr "تم حفظ مراجعة AI كملف تقديم. يرجى تحديث هذه الصفحة لمشاهدتها في شبكة مراجعة الملفات."
+
+msgid "plugins.generic.aiReviewer.language"
+msgstr "لغة الإخراج"
+
+msgid "plugins.generic.aiReviewer.settings.enableActivityLog"
+msgstr "سجل إنشاء مراجعة AI في سجل النشاط"
+
+
+msgid "plugins.generic.aiReviewer.settings.customPrompt"
+msgstr "تعليمات سريعة مخصصة (اختياري)"
+
+msgid "plugins.generic.aiReviewer.settings.customPrompt.description"
+msgstr "أدخل تعليمات مخصصة أو عنوان محدد لمراجع الذكاء الاصطناعي. إذا تركت فارغة، فسيتم استخدام تنسيق المراجعة الأكاديمية الافتراضي المكون من 7 نقاط. يمكنك تحديد مجالات التركيز أو أسئلة محددة لطرحها على الذكاء الاصطناعي."
+

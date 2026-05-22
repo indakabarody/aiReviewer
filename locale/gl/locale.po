@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OJS AI Reviewer\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: gl\n"
+
+msgid "plugins.generic.aiReviewer.displayName"
+msgstr "AI Reviewer"
+
+msgid "plugins.generic.aiReviewer.description"
+msgstr "Un complemento para axudar a revisar manuscritos usando AI."
+
+msgid "plugins.generic.aiReviewer.settings.apiKey"
+msgstr "Clave API"
+
+msgid "plugins.generic.aiReviewer.settings.apiKey.description"
+msgstr "Introduce a túa clave API secreta para o modelo de IA seleccionado."
+
+msgid "plugins.generic.aiReviewer.settings.aiModel"
+msgstr "Modelo AI"
+
+msgid "plugins.generic.aiReviewer.button.description"
+msgstr "Xera automaticamente unha revisión para este manuscrito mediante intelixencia artificial."
+
+msgid "plugins.generic.aiReviewer.button.generate"
+msgstr "Xerar revisión da IA"
+
+msgid "plugins.generic.aiReviewer.button.alert"
+msgstr "Esta función é actualmente un marcador de posición para a futura integración da IA. En breve!"
+
+msgid "plugins.generic.aiReviewer.button.loading"
+msgstr "Cargando a revisión de AI... Isto pode tardar ata 60 segundos."
+
+msgid "plugins.generic.aiReviewer.button.saved"
+msgstr "A revisión AI gardouse como un ficheiro de envío. Actualiza esta páxina para vela na grella de Revisar ficheiros."
+
+msgid "plugins.generic.aiReviewer.language"
+msgstr "Linguaxe de saída"
+
+msgid "plugins.generic.aiReviewer.settings.enableActivityLog"
+msgstr "Rexistra a xeración da revisión da IA ​​no Rexistro de actividade"
+
+
+msgid "plugins.generic.aiReviewer.settings.customPrompt"
+msgstr "Instrucións de solicitude personalizadas (opcional)"
+
+msgid "plugins.generic.aiReviewer.settings.customPrompt.description"
+msgstr "Introduce instrucións personalizadas ou unha rúbrica específica para o revisor de IA. Se se deixa en branco, utilizarase o formato de revisión académica predeterminado de 7 puntos. Podes especificar áreas de enfoque ou preguntas específicas para facerlle á IA."
+

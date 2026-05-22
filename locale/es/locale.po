@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OJS AI Reviewer\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+
+msgid "plugins.generic.aiReviewer.displayName"
+msgstr "AI Reviewer"
+
+msgid "plugins.generic.aiReviewer.description"
+msgstr "Un complemento para ayudar en la revisión de manuscritos utilizando IA."
+
+msgid "plugins.generic.aiReviewer.settings.apiKey"
+msgstr "Clave API"
+
+msgid "plugins.generic.aiReviewer.settings.apiKey.description"
+msgstr "Ingrese su clave API secreta para el modelo de IA seleccionado."
+
+msgid "plugins.generic.aiReviewer.settings.aiModel"
+msgstr "Modelo de IA"
+
+msgid "plugins.generic.aiReviewer.button.description"
+msgstr "Genere automáticamente una reseña para este manuscrito utilizando inteligencia artificial."
+
+msgid "plugins.generic.aiReviewer.button.generate"
+msgstr "Generar revisión de IA"
+
+msgid "plugins.generic.aiReviewer.button.alert"
+msgstr "Esta característica es actualmente un marcador de posición para la futura integración de la IA. ¡Muy pronto!"
+
+msgid "plugins.generic.aiReviewer.button.loading"
+msgstr "Cargando revisión de IA... Esto puede tardar hasta 60 segundos."
+
+msgid "plugins.generic.aiReviewer.button.saved"
+msgstr "La revisión de AI se ha guardado como un archivo de envío. Actualice esta página para verla en la cuadrícula Revisar archivos."
+
+msgid "plugins.generic.aiReviewer.language"
+msgstr "Idioma de salida"
+
+msgid "plugins.generic.aiReviewer.settings.enableActivityLog"
+msgstr "Registrar la generación de revisión de IA en el registro de actividad"
+
+
+msgid "plugins.generic.aiReviewer.settings.customPrompt"
+msgstr "Instrucciones rápidas personalizadas (opcional)"
+
+msgid "plugins.generic.aiReviewer.settings.customPrompt.description"
+msgstr "Ingrese instrucciones personalizadas o una rúbrica específica para AI Reviewer. Si se deja en blanco, se utilizará el formato de revisión académica predeterminado de 7 puntos. Puede especificar áreas de enfoque o preguntas específicas para hacerle a la IA."
+

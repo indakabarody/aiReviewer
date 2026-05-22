@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OJS AI Reviewer\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+
+msgid "plugins.generic.aiReviewer.displayName"
+msgstr "ИИ-обозреватель"
+
+msgid "plugins.generic.aiReviewer.description"
+msgstr "Плагин, помогающий просматривать рукописи с использованием искусственного интеллекта."
+
+msgid "plugins.generic.aiReviewer.settings.apiKey"
+msgstr "API-ключ"
+
+msgid "plugins.generic.aiReviewer.settings.apiKey.description"
+msgstr "Введите свой секретный ключ API для выбранной модели ИИ."
+
+msgid "plugins.generic.aiReviewer.settings.aiModel"
+msgstr "Модель ИИ"
+
+msgid "plugins.generic.aiReviewer.button.description"
+msgstr "Автоматически создать рецензию на эту рукопись с помощью искусственного интеллекта."
+
+msgid "plugins.generic.aiReviewer.button.generate"
+msgstr "Создать обзор ИИ"
+
+msgid "plugins.generic.aiReviewer.button.alert"
+msgstr "Эта функция в настоящее время является заполнителем для будущей интеграции ИИ. Вскоре!"
+
+msgid "plugins.generic.aiReviewer.button.loading"
+msgstr "Загрузка обзора AI... Это может занять до 60 секунд."
+
+msgid "plugins.generic.aiReviewer.button.saved"
+msgstr "Обзор AI был сохранен в виде файла отправки. Обновите эту страницу, чтобы просмотреть ее в сетке просмотра файлов."
+
+msgid "plugins.generic.aiReviewer.language"
+msgstr "Язык вывода"
+
+msgid "plugins.generic.aiReviewer.settings.enableActivityLog"
+msgstr "Записывать создание обзоров AI в журнал активности"
+
+
+msgid "plugins.generic.aiReviewer.settings.customPrompt"
+msgstr "Пользовательские подсказки (необязательно)"
+
+msgid "plugins.generic.aiReviewer.settings.customPrompt.description"
+msgstr "Введите специальные инструкции или конкретную рубрику для AI Reviewer. Если оставить это поле пустым, будет использоваться формат академического обзора из 7 пунктов по умолчанию. Вы можете указать области фокуса или конкретные вопросы, которые следует задать ИИ."
+

@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OJS AI Reviewer\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: mk\n"
+
+msgid "plugins.generic.aiReviewer.displayName"
+msgstr "Рецензент на вештачка интелигенција"
+
+msgid "plugins.generic.aiReviewer.description"
+msgstr "Приклучок за помош на прегледување на ракопис со помош на вештачка интелигенција."
+
+msgid "plugins.generic.aiReviewer.settings.apiKey"
+msgstr "API клуч"
+
+msgid "plugins.generic.aiReviewer.settings.apiKey.description"
+msgstr "Внесете го вашиот таен API клуч за избраниот модел со вештачка интелигенција."
+
+msgid "plugins.generic.aiReviewer.settings.aiModel"
+msgstr "Модел со вештачка интелигенција"
+
+msgid "plugins.generic.aiReviewer.button.description"
+msgstr "Автоматски генерирај преглед за овој ракопис користејќи вештачка интелигенција."
+
+msgid "plugins.generic.aiReviewer.button.generate"
+msgstr "Создадете преглед на вештачката интелигенција"
+
+msgid "plugins.generic.aiReviewer.button.alert"
+msgstr "Оваа функција е моментално место за идната интеграција на вештачката интелигенција. Наскоро!"
+
+msgid "plugins.generic.aiReviewer.button.loading"
+msgstr "Се вчитува преглед на вештачка интелигенција... Ова може да потрае до 60 секунди."
+
+msgid "plugins.generic.aiReviewer.button.saved"
+msgstr "Прегледот на вештачката интелигенција е зачуван како датотека за поднесување. Ве молиме освежете ја оваа страница за да ја видите во мрежата Датотеки за преглед."
+
+msgid "plugins.generic.aiReviewer.language"
+msgstr "Излезен јазик"
+
+msgid "plugins.generic.aiReviewer.settings.enableActivityLog"
+msgstr "Евиденција AI генерирање преглед во Дневникот на активности"
+
+
+msgid "plugins.generic.aiReviewer.settings.customPrompt"
+msgstr "Прилагодени инструкции за брза помош (опционално)"
+
+msgid "plugins.generic.aiReviewer.settings.customPrompt.description"
+msgstr "Внесете прилагодени упатства или специфична рубрика за прегледувачот на вештачка интелигенција. Ако се остави празно, ќе се користи стандардниот формат на академски преглед од 7 точки. Можете да наведете области на фокусирање или конкретни прашања што треба да ги поставите на вештачката интелигенција."
+

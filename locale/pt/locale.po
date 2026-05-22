@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OJS AI Reviewer\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt\n"
+
+msgid "plugins.generic.aiReviewer.displayName"
+msgstr "AI Reviewer"
+
+msgid "plugins.generic.aiReviewer.description"
+msgstr "Um plugin para auxiliar na revisão de manuscritos usando IA."
+
+msgid "plugins.generic.aiReviewer.settings.apiKey"
+msgstr "Chave de API"
+
+msgid "plugins.generic.aiReviewer.settings.apiKey.description"
+msgstr "Insira sua chave de API secreta para o modelo de IA selecionado."
+
+msgid "plugins.generic.aiReviewer.settings.aiModel"
+msgstr "Modelo de IA"
+
+msgid "plugins.generic.aiReviewer.button.description"
+msgstr "Gere automaticamente uma revisão para este manuscrito usando inteligência artificial."
+
+msgid "plugins.generic.aiReviewer.button.generate"
+msgstr "Gerar revisão de IA"
+
+msgid "plugins.generic.aiReviewer.button.alert"
+msgstr "Este recurso é atualmente um espaço reservado para a futura integração de IA. Em breve!"
+
+msgid "plugins.generic.aiReviewer.button.loading"
+msgstr "Carregando Revisão de IA... Isso pode levar até 60 segundos."
+
+msgid "plugins.generic.aiReviewer.button.saved"
+msgstr "A revisão da IA ​​foi salva como um arquivo de envio. Atualize esta página para visualizá-la na grade de arquivos de revisão."
+
+msgid "plugins.generic.aiReviewer.language"
+msgstr "Idioma de saída"
+
+msgid "plugins.generic.aiReviewer.settings.enableActivityLog"
+msgstr "Gerar geração de revisão de IA no log de atividades"
+
+
+msgid "plugins.generic.aiReviewer.settings.customPrompt"
+msgstr "Instruções de prompt personalizado (opcional)"
+
+msgid "plugins.generic.aiReviewer.settings.customPrompt.description"
+msgstr "Insira instruções personalizadas ou uma rubrica específica para o AI Reviewer. Se deixado em branco, será usado o formato padrão de revisão acadêmica de 7 pontos. Você pode especificar áreas de foco ou perguntas específicas a serem feitas à IA."
+

@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OJS AI Reviewer\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: tr\n"
+
+msgid "plugins.generic.aiReviewer.displayName"
+msgstr "AI Reviewer"
+
+msgid "plugins.generic.aiReviewer.description"
+msgstr "Yapay zeka kullanarak makale incelemesine yardımcı olacak bir eklenti."
+
+msgid "plugins.generic.aiReviewer.settings.apiKey"
+msgstr "API Anahtarı"
+
+msgid "plugins.generic.aiReviewer.settings.apiKey.description"
+msgstr "Seçilen yapay zeka modeli için gizli API anahtarınızı girin."
+
+msgid "plugins.generic.aiReviewer.settings.aiModel"
+msgstr "Yapay Zeka Modeli"
+
+msgid "plugins.generic.aiReviewer.button.description"
+msgstr "Yapay zekayı kullanarak bu makale için otomatik olarak bir inceleme oluşturun."
+
+msgid "plugins.generic.aiReviewer.button.generate"
+msgstr "Yapay Zeka İncelemesi Oluştur"
+
+msgid "plugins.generic.aiReviewer.button.alert"
+msgstr "Bu özellik şu anda gelecekteki AI entegrasyonu için bir yer tutucudur. Yakında gelecek!"
+
+msgid "plugins.generic.aiReviewer.button.loading"
+msgstr "AI İncelemesi Yükleniyor... Bu işlem 60 saniye kadar sürebilir."
+
+msgid "plugins.generic.aiReviewer.button.saved"
+msgstr "AI İncelemesi Gönderim Dosyası olarak kaydedildi. Dosyaları İnceleme kılavuzunda görüntülemek için lütfen bu sayfayı yenileyin."
+
+msgid "plugins.generic.aiReviewer.language"
+msgstr "Çıkış Dili"
+
+msgid "plugins.generic.aiReviewer.settings.enableActivityLog"
+msgstr "Etkinlik Günlüğünde AI İnceleme oluşturmayı günlüğe kaydedin"
+
+
+msgid "plugins.generic.aiReviewer.settings.customPrompt"
+msgstr "Özel İstem Talimatları (İsteğe Bağlı)"
+
+msgid "plugins.generic.aiReviewer.settings.customPrompt.description"
+msgstr "AI İnceleyici için özel talimatlar veya belirli bir değerlendirme listesi girin. Boş bırakılırsa varsayılan 7 puanlık akademik inceleme formatı kullanılacaktır. Yapay zekaya sorulacak odak alanlarını veya belirli soruları belirleyebilirsiniz."
+

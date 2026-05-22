@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OJS AI Reviewer\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+
+msgid "plugins.generic.aiReviewer.displayName"
+msgstr "AI Reviewer"
+
+msgid "plugins.generic.aiReviewer.description"
+msgstr "Un plugin pour aider à la révision des manuscrits à l'aide de l'IA."
+
+msgid "plugins.generic.aiReviewer.settings.apiKey"
+msgstr "Clé API"
+
+msgid "plugins.generic.aiReviewer.settings.apiKey.description"
+msgstr "Entrez votre clé API secrète pour le modèle d'IA sélectionné."
+
+msgid "plugins.generic.aiReviewer.settings.aiModel"
+msgstr "Modèle d'IA"
+
+msgid "plugins.generic.aiReviewer.button.description"
+msgstr "Générez automatiquement une révision pour ce manuscrit à l’aide de l’intelligence artificielle."
+
+msgid "plugins.generic.aiReviewer.button.generate"
+msgstr "Générer un examen IA"
+
+msgid "plugins.generic.aiReviewer.button.alert"
+msgstr "Cette fonctionnalité est actuellement un espace réservé pour la future intégration de l'IA. À venir!"
+
+msgid "plugins.generic.aiReviewer.button.loading"
+msgstr "Chargement de AI Review... Cela peut prendre jusqu'à 60 secondes."
+
+msgid "plugins.generic.aiReviewer.button.saved"
+msgstr "L'examen AI a été enregistré en tant que fichier de soumission. Veuillez actualiser cette page pour l'afficher dans la grille Examiner les fichiers."
+
+msgid "plugins.generic.aiReviewer.language"
+msgstr "Langue de sortie"
+
+msgid "plugins.generic.aiReviewer.settings.enableActivityLog"
+msgstr "Génération d’examens AI dans le journal d’activité"
+
+
+msgid "plugins.generic.aiReviewer.settings.customPrompt"
+msgstr "Instructions d'invite personnalisées (facultatif)"
+
+msgid "plugins.generic.aiReviewer.settings.customPrompt.description"
+msgstr "Saisissez des instructions personnalisées ou une rubrique spécifique pour AI Reviewer. Si ce champ est laissé vide, le format d'évaluation académique en 7 points par défaut sera utilisé. Vous pouvez spécifier des domaines d'intervention ou des questions spécifiques à poser à l'IA."
+

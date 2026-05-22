@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OJS AI Reviewer\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+
+msgid "plugins.generic.aiReviewer.displayName"
+msgstr "AI Reviewer"
+
+msgid "plugins.generic.aiReviewer.description"
+msgstr "Ein Plugin zur Unterstützung der Manuskriptprüfung mithilfe von KI."
+
+msgid "plugins.generic.aiReviewer.settings.apiKey"
+msgstr "API-Schlüssel"
+
+msgid "plugins.generic.aiReviewer.settings.apiKey.description"
+msgstr "Geben Sie Ihren geheimen API-Schlüssel für das ausgewählte KI-Modell ein."
+
+msgid "plugins.generic.aiReviewer.settings.aiModel"
+msgstr "KI-Modell"
+
+msgid "plugins.generic.aiReviewer.button.description"
+msgstr "Generieren Sie mithilfe künstlicher Intelligenz automatisch eine Rezension für dieses Manuskript."
+
+msgid "plugins.generic.aiReviewer.button.generate"
+msgstr "Generieren Sie eine KI-Bewertung"
+
+msgid "plugins.generic.aiReviewer.button.alert"
+msgstr "Diese Funktion ist derzeit ein Platzhalter für die zukünftige KI-Integration. Kommt bald!"
+
+msgid "plugins.generic.aiReviewer.button.loading"
+msgstr "AI Review wird geladen... Dies kann bis zu 60 Sekunden dauern."
+
+msgid "plugins.generic.aiReviewer.button.saved"
+msgstr "Die AI-Bewertung wurde als Einreichungsdatei gespeichert. Bitte aktualisieren Sie diese Seite, um sie im Raster „Dateien überprüfen“ anzuzeigen."
+
+msgid "plugins.generic.aiReviewer.language"
+msgstr "Ausgabesprache"
+
+msgid "plugins.generic.aiReviewer.settings.enableActivityLog"
+msgstr "Protokollieren Sie die Erstellung von KI-Bewertungen im Aktivitätsprotokoll"
+
+
+msgid "plugins.generic.aiReviewer.settings.customPrompt"
+msgstr "Benutzerdefinierte Anweisungen für Eingabeaufforderungen (optional)"
+
+msgid "plugins.generic.aiReviewer.settings.customPrompt.description"
+msgstr "Geben Sie benutzerdefinierte Anweisungen oder eine bestimmte Rubrik für den AI Reviewer ein. Wenn Sie das Feld leer lassen, wird das Standardformat für akademische 7-Punkte-Bewertungen verwendet. Sie können Schwerpunktbereiche oder spezifische Fragen angeben, die Sie der KI stellen möchten."
+

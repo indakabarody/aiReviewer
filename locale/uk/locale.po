@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OJS AI Reviewer\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+
+msgid "plugins.generic.aiReviewer.displayName"
+msgstr "Рецензент ШІ"
+
+msgid "plugins.generic.aiReviewer.description"
+msgstr "Плагін для допомоги в рецензуванні рукопису за допомогою ШІ."
+
+msgid "plugins.generic.aiReviewer.settings.apiKey"
+msgstr "Ключ API"
+
+msgid "plugins.generic.aiReviewer.settings.apiKey.description"
+msgstr "Введіть секретний ключ API для вибраної моделі ШІ."
+
+msgid "plugins.generic.aiReviewer.settings.aiModel"
+msgstr "Модель ШІ"
+
+msgid "plugins.generic.aiReviewer.button.description"
+msgstr "Автоматично створювати рецензію на цей рукопис за допомогою штучного інтелекту."
+
+msgid "plugins.generic.aiReviewer.button.generate"
+msgstr "Створіть огляд AI"
+
+msgid "plugins.generic.aiReviewer.button.alert"
+msgstr "Наразі ця функція є заповнювачем для майбутньої інтеграції ШІ. Скоро буде!"
+
+msgid "plugins.generic.aiReviewer.button.loading"
+msgstr "Завантаження огляду AI... Це може зайняти до 60 секунд."
+
+msgid "plugins.generic.aiReviewer.button.saved"
+msgstr "Огляд штучного інтелекту було збережено як файл подання. Будь ласка, оновіть цю сторінку, щоб переглянути її в сітці перегляду файлів."
+
+msgid "plugins.generic.aiReviewer.language"
+msgstr "Мова виводу"
+
+msgid "plugins.generic.aiReviewer.settings.enableActivityLog"
+msgstr "Журнал створення огляду AI у журналі активності"
+
+
+msgid "plugins.generic.aiReviewer.settings.customPrompt"
+msgstr "Спеціальні підказки (необов’язково)"
+
+msgid "plugins.generic.aiReviewer.settings.customPrompt.description"
+msgstr "Введіть спеціальні інструкції або окрему рубрику для рецензента AI. Якщо залишити порожнім, буде використано стандартний 7-бальний формат академічної перевірки. Ви можете вказати зони фокусування або конкретні запитання, щоб поставити ШІ."
+

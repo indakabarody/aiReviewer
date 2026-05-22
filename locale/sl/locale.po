@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OJS AI Reviewer\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sl\n"
+
+msgid "plugins.generic.aiReviewer.displayName"
+msgstr "AI Reviewer"
+
+msgid "plugins.generic.aiReviewer.description"
+msgstr "Vtičnik za pomoč pri pregledu rokopisa z AI."
+
+msgid "plugins.generic.aiReviewer.settings.apiKey"
+msgstr "API ključ"
+
+msgid "plugins.generic.aiReviewer.settings.apiKey.description"
+msgstr "Vnesite svoj skrivni ključ API za izbrani model AI."
+
+msgid "plugins.generic.aiReviewer.settings.aiModel"
+msgstr "Model AI"
+
+msgid "plugins.generic.aiReviewer.button.description"
+msgstr "Samodejno ustvari recenzijo za ta rokopis z uporabo umetne inteligence."
+
+msgid "plugins.generic.aiReviewer.button.generate"
+msgstr "Ustvari pregled AI"
+
+msgid "plugins.generic.aiReviewer.button.alert"
+msgstr "Ta funkcija je trenutno nadomestni znak za prihodnjo integracijo umetne inteligence. Kmalu na voljo!"
+
+msgid "plugins.generic.aiReviewer.button.loading"
+msgstr "Nalaganje AI Review ... To lahko traja do 60 sekund."
+
+msgid "plugins.generic.aiReviewer.button.saved"
+msgstr "Pregled AI je bil shranjen kot datoteka za oddajo. Prosimo, osvežite to stran, da si jo ogledate v mreži Pregled datotek."
+
+msgid "plugins.generic.aiReviewer.language"
+msgstr "Izhodni jezik"
+
+msgid "plugins.generic.aiReviewer.settings.enableActivityLog"
+msgstr "Ustvarjanje pregleda AI v dnevniku v dnevniku dejavnosti"
+
+
+msgid "plugins.generic.aiReviewer.settings.customPrompt"
+msgstr "Navodila za poziv po meri (neobvezno)"
+
+msgid "plugins.generic.aiReviewer.settings.customPrompt.description"
+msgstr "Vnesite navodila po meri ali posebno rubriko za pregledovalca AI. Če polje ostane prazno, bo uporabljen privzeti 7-točkovni format akademskega pregleda. Določite lahko področja osredotočanja ali posebna vprašanja, ki jih postavite AI."
+

@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OJS AI Reviewer\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl\n"
+
+msgid "plugins.generic.aiReviewer.displayName"
+msgstr "AI Reviewer"
+
+msgid "plugins.generic.aiReviewer.description"
+msgstr "Een plug-in om manuscriptbeoordeling met behulp van AI te ondersteunen."
+
+msgid "plugins.generic.aiReviewer.settings.apiKey"
+msgstr "API-sleutel"
+
+msgid "plugins.generic.aiReviewer.settings.apiKey.description"
+msgstr "Voer uw geheime API-sleutel in voor het geselecteerde AI-model."
+
+msgid "plugins.generic.aiReviewer.settings.aiModel"
+msgstr "AI-model"
+
+msgid "plugins.generic.aiReviewer.button.description"
+msgstr "Genereer automatisch een beoordeling voor dit manuscript met behulp van kunstmatige intelligentie."
+
+msgid "plugins.generic.aiReviewer.button.generate"
+msgstr "Genereer AI-beoordeling"
+
+msgid "plugins.generic.aiReviewer.button.alert"
+msgstr "Deze functie is momenteel een tijdelijke aanduiding voor de toekomstige AI-integratie. Binnenkort beschikbaar!"
+
+msgid "plugins.generic.aiReviewer.button.loading"
+msgstr "AI Review laden... Dit kan tot 60 seconden duren."
+
+msgid "plugins.generic.aiReviewer.button.saved"
+msgstr "De AI Review is opgeslagen als een indieningsbestand. Vernieuw deze pagina om deze te bekijken in het beoordelingsbestandenraster."
+
+msgid "plugins.generic.aiReviewer.language"
+msgstr "Uitvoertaal"
+
+msgid "plugins.generic.aiReviewer.settings.enableActivityLog"
+msgstr "Registreer het genereren van AI-beoordelingen in het activiteitenlogboek"
+
+
+msgid "plugins.generic.aiReviewer.settings.customPrompt"
+msgstr "Aangepaste promptinstructies (optioneel)"
+
+msgid "plugins.generic.aiReviewer.settings.customPrompt.description"
+msgstr "Voer aangepaste instructies of een specifieke rubriek in voor de AI Reviewer. Als u dit veld leeg laat, wordt het standaard academisch beoordelingsformaat van 7 punten gebruikt. U kunt focusgebieden of specifieke vragen opgeven die u aan de AI kunt stellen."
+

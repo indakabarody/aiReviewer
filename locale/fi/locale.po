@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OJS AI Reviewer\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fi\n"
+
+msgid "plugins.generic.aiReviewer.displayName"
+msgstr "AI Reviewer"
+
+msgid "plugins.generic.aiReviewer.description"
+msgstr "Laajennus, joka auttaa käsikirjoituksen tarkistamista tekoälyn avulla."
+
+msgid "plugins.generic.aiReviewer.settings.apiKey"
+msgstr "API-avain"
+
+msgid "plugins.generic.aiReviewer.settings.apiKey.description"
+msgstr "Anna salainen API-avain valitulle tekoälymallille."
+
+msgid "plugins.generic.aiReviewer.settings.aiModel"
+msgstr "AI malli"
+
+msgid "plugins.generic.aiReviewer.button.description"
+msgstr "Luo automaattisesti arvostelu tästä käsikirjoituksesta tekoälyn avulla."
+
+msgid "plugins.generic.aiReviewer.button.generate"
+msgstr "Luo tekoälyarvostelu"
+
+msgid "plugins.generic.aiReviewer.button.alert"
+msgstr "Tämä ominaisuus on tällä hetkellä paikkamerkki tulevalle tekoälyintegraatiolle. Tulossa pian!"
+
+msgid "plugins.generic.aiReviewer.button.loading"
+msgstr "Ladataan tekoälyn tarkistusta... Tämä voi kestää jopa 60 sekuntia."
+
+msgid "plugins.generic.aiReviewer.button.saved"
+msgstr "AI-arvostelu on tallennettu lähetystiedostoksi. Päivitä tämä sivu nähdäksesi sen Tarkista tiedostot -ruudukko."
+
+msgid "plugins.generic.aiReviewer.language"
+msgstr "Tulostuskieli"
+
+msgid "plugins.generic.aiReviewer.settings.enableActivityLog"
+msgstr "Log AI Review -sukupolvi toimintalokissa"
+
+
+msgid "plugins.generic.aiReviewer.settings.customPrompt"
+msgstr "Mukautetut kehoteohjeet (valinnainen)"
+
+msgid "plugins.generic.aiReviewer.settings.customPrompt.description"
+msgstr "Anna mukautetut ohjeet tai tietty rubriikki AI Reviewerille. Jos jätetään tyhjäksi, käytetään oletusarvoista 7 pisteen akateemisen arvostelun muotoa. Voit määrittää painopistealueita tai erityisiä kysymyksiä esitettäväksi tekoälylle."
+

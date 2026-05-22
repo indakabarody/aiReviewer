@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OJS AI Reviewer\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgid "plugins.generic.aiReviewer.displayName"
+msgstr "AI Reviewer"
+
+msgid "plugins.generic.aiReviewer.description"
+msgstr "Un plugin per assistere nella revisione dei manoscritti utilizzando l'intelligenza artificiale."
+
+msgid "plugins.generic.aiReviewer.settings.apiKey"
+msgstr "Chiave API"
+
+msgid "plugins.generic.aiReviewer.settings.apiKey.description"
+msgstr "Inserisci la tua chiave API segreta per il modello AI selezionato."
+
+msgid "plugins.generic.aiReviewer.settings.aiModel"
+msgstr "Modello di intelligenza artificiale"
+
+msgid "plugins.generic.aiReviewer.button.description"
+msgstr "Genera automaticamente una recensione per questo manoscritto utilizzando l'intelligenza artificiale."
+
+msgid "plugins.generic.aiReviewer.button.generate"
+msgstr "Genera revisione AI"
+
+msgid "plugins.generic.aiReviewer.button.alert"
+msgstr "Questa funzionalità è attualmente un segnaposto per la futura integrazione dell'intelligenza artificiale. Prossimamente!"
+
+msgid "plugins.generic.aiReviewer.button.loading"
+msgstr "Caricamento revisione AI... L'operazione potrebbe richiedere fino a 60 secondi."
+
+msgid "plugins.generic.aiReviewer.button.saved"
+msgstr "La revisione AI è stata salvata come file di invio. Aggiorna questa pagina per visualizzarla nella griglia dei file di revisione."
+
+msgid "plugins.generic.aiReviewer.language"
+msgstr "Lingua di uscita"
+
+msgid "plugins.generic.aiReviewer.settings.enableActivityLog"
+msgstr "Registra la generazione della revisione AI nel registro delle attività"
+
+
+msgid "plugins.generic.aiReviewer.settings.customPrompt"
+msgstr "Istruzioni personalizzate (facoltative)"
+
+msgid "plugins.generic.aiReviewer.settings.customPrompt.description"
+msgstr "Inserisci istruzioni personalizzate o una rubrica specifica per il revisore AI. Se lasciato vuoto, verrà utilizzato il formato di revisione accademica predefinito in 7 punti. Puoi specificare aree di interesse o domande specifiche da porre all'intelligenza artificiale."
+

@@ -1,0 +1,11 @@
+{
+    "name": "ojs/ai-reviewer",
+    "description": "AI Reviewer Plugin for OJS",
+    "type": "project",
+    "require": {
+        "smalot/pdfparser": "^2.7"
+    },
+    "autoload": {
+        "classmap": ["classes/"]
+    }
+}

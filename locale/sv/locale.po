@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OJS AI Reviewer\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+
+msgid "plugins.generic.aiReviewer.displayName"
+msgstr "AI Reviewer"
+
+msgid "plugins.generic.aiReviewer.description"
+msgstr "Ett plugin för att underlätta manuskriptgranskning med AI."
+
+msgid "plugins.generic.aiReviewer.settings.apiKey"
+msgstr "API-nyckel"
+
+msgid "plugins.generic.aiReviewer.settings.apiKey.description"
+msgstr "Ange din hemliga API-nyckel för den valda AI-modellen."
+
+msgid "plugins.generic.aiReviewer.settings.aiModel"
+msgstr "AI-modell"
+
+msgid "plugins.generic.aiReviewer.button.description"
+msgstr "Generera automatiskt en recension för detta manuskript med hjälp av artificiell intelligens."
+
+msgid "plugins.generic.aiReviewer.button.generate"
+msgstr "Generera AI-granskning"
+
+msgid "plugins.generic.aiReviewer.button.alert"
+msgstr "Den här funktionen är för närvarande en platshållare för framtida AI-integrering. Kommer snart!"
+
+msgid "plugins.generic.aiReviewer.button.loading"
+msgstr "Laddar AI Review... Detta kan ta upp till 60 sekunder."
+
+msgid "plugins.generic.aiReviewer.button.saved"
+msgstr "AI-granskningen har sparats som en inlämningsfil. Uppdatera den här sidan för att se den i rutnätet Granska filer."
+
+msgid "plugins.generic.aiReviewer.language"
+msgstr "Utdataspråk"
+
+msgid "plugins.generic.aiReviewer.settings.enableActivityLog"
+msgstr "Logga AI Review-generering i aktivitetslogg"
+
+
+msgid "plugins.generic.aiReviewer.settings.customPrompt"
+msgstr "Anpassade instruktioner (valfritt)"
+
+msgid "plugins.generic.aiReviewer.settings.customPrompt.description"
+msgstr "Ange anpassade instruktioner eller en specifik rubrik för AI-granskaren. Om det lämnas tomt kommer standardformatet för 7-punkters akademisk granskning att användas. Du kan ange fokusområden eller specifika frågor att ställa till AI."
+

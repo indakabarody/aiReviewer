@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OJS AI Reviewer\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ms\n"
+
+msgid "plugins.generic.aiReviewer.displayName"
+msgstr "AI Reviewer"
+
+msgid "plugins.generic.aiReviewer.description"
+msgstr "Pemalam untuk membantu semakan manuskrip menggunakan AI."
+
+msgid "plugins.generic.aiReviewer.settings.apiKey"
+msgstr "Kunci API"
+
+msgid "plugins.generic.aiReviewer.settings.apiKey.description"
+msgstr "Masukkan kunci API rahsia anda untuk model AI yang dipilih."
+
+msgid "plugins.generic.aiReviewer.settings.aiModel"
+msgstr "Model AI"
+
+msgid "plugins.generic.aiReviewer.button.description"
+msgstr "Hasilkan ulasan untuk manuskrip ini secara automatik menggunakan kecerdasan buatan."
+
+msgid "plugins.generic.aiReviewer.button.generate"
+msgstr "Jana Kajian AI"
+
+msgid "plugins.generic.aiReviewer.button.alert"
+msgstr "Ciri ini pada masa ini merupakan pemegang tempat untuk penyepaduan AI masa hadapan. Akan datang!"
+
+msgid "plugins.generic.aiReviewer.button.loading"
+msgstr "Memuatkan Kajian AI... Ini mungkin mengambil masa sehingga 60 saat."
+
+msgid "plugins.generic.aiReviewer.button.saved"
+msgstr "Kajian AI telah disimpan sebagai Fail Penyerahan. Sila muat semula halaman ini untuk melihatnya dalam grid Semakan Fail."
+
+msgid "plugins.generic.aiReviewer.language"
+msgstr "Bahasa Keluaran"
+
+msgid "plugins.generic.aiReviewer.settings.enableActivityLog"
+msgstr "Log penjanaan Kajian AI dalam Log Aktiviti"
+
+
+msgid "plugins.generic.aiReviewer.settings.customPrompt"
+msgstr "Arahan Gesaan Tersuai (Pilihan)"
+
+msgid "plugins.generic.aiReviewer.settings.customPrompt.description"
+msgstr "Masukkan arahan tersuai atau rubrik khusus untuk Pengulas AI. Jika dibiarkan kosong, format semakan akademik 7 mata lalai akan digunakan. Anda boleh menentukan kawasan fokus atau soalan khusus untuk ditanya kepada AI."
+

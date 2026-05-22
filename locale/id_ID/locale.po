@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AiReviewer Plugin 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Indaka Barody\n"
+"Language-Team: Indonesian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: id_ID\n"
+
+msgid "plugins.generic.aiReviewer.displayName"
+msgstr "AI Reviewer"
+
+msgid "plugins.generic.aiReviewer.description"
+msgstr "Plugin untuk membantu ulasan naskah menggunakan AI."
+
+msgid "plugins.generic.aiReviewer.settings.apiKey"
+msgstr "Kunci API (API Key)"
+
+msgid "plugins.generic.aiReviewer.settings.apiKey.description"
+msgstr "Masukkan kunci API rahasia Anda untuk model AI yang dipilih."
+
+msgid "plugins.generic.aiReviewer.settings.aiModel"
+msgstr "Model AI"
+
+msgid "plugins.generic.aiReviewer.button.description"
+msgstr "Buat ulasan naskah ini secara otomatis menggunakan kecerdasan buatan."
+
+msgid "plugins.generic.aiReviewer.button.generate"
+msgstr "Buat Ulasan AI"
+
+msgid "plugins.generic.aiReviewer.button.alert"
+msgstr "Fitur ini saat ini merupakan pratinjau untuk integrasi AI di masa mendatang. Segera hadir!"
+
+msgid "plugins.generic.aiReviewer.button.loading"
+msgstr "Sedang Membaca & Menganalisis... Proses ini bisa memakan waktu hingga 60 detik."
+
+
+msgid "plugins.generic.aiReviewer.button.saved"
+msgstr "Hasil ulasan AI telah disimpan sebagai Submission File. Silakan muat ulang (refresh) halaman ini untuk melihatnya di dalam tabel Review Files."
+
+
+msgid "plugins.generic.aiReviewer.language"
+msgstr "Bahasa Hasil Review"
+msgid "plugins.generic.aiReviewer.settings.enableActivityLog"
+msgstr "Mencatat Pembuatan Review AI ke Log Aktivitas"
+
+
+msgid "plugins.generic.aiReviewer.settings.customPrompt"
+msgstr "Instruksi Prompt Khusus (Opsional)"
+
+msgid "plugins.generic.aiReviewer.settings.customPrompt.description"
+msgstr "Masukkan instruksi khusus atau rubrik penilaian spesifik untuk AI Reviewer. Jika dikosongkan, format ulasan akademik 7-poin default akan digunakan. Anda dapat menentukan area fokus atau pertanyaan spesifik yang ingin diajukan kepada AI."
