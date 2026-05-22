@@ -1,6 +1,6 @@
 # AI Reviewer Plugin for OJS 3.3
 
-**Version:** 1.0.0  
+**Version:** 1.0.1  
 **Author:** Indaka Barody  
 **License:** GPL v3  
 

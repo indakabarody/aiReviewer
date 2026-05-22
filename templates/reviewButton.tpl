@@ -12,6 +12,7 @@
 	id="aiReviewContainer"
 	class="pkp_controllers_grid pkp_grid_category pkp_context_ai_reviewer_button"
 	style="display:none; margin-bottom: 16px;"
+	data-generate-url="{url router=$smarty.const.ROUTE_PAGE page="aireviewer" op="generate"}"
 >
 
 	<div class="header">
@@ -168,88 +169,4 @@
 	</div>
 </div>
 
-<script>
-    // In OJS 3, workflow tabs are loaded asynchronously via AJAX. 
-    // We listen for the Review tab (stageId=3) to finish loading, then inject our button into its sidebar.
-    $(document).ajaxComplete(function(event, xhr, settings) {ldelim}
-        if (settings.url && settings.url.indexOf('stageId=3') !== -1) {ldelim}
-            var container = $('#aiReviewContainer');
-            if (container.length && !container.parent().hasClass('pkp_workflow_sidebar')) {ldelim}
-                var sidebar = $('.pkp_workflow_sidebar:visible').first();
-                if (sidebar.length) {ldelim}
-                    container.prependTo(sidebar).show();
-                {rdelim}
-            {rdelim}
-        {rdelim}
-        
-        // For Reviewer Role (reviewer/step/2616?step=3)
-        if (settings.url && settings.url.indexOf('step=3') !== -1 && $('body').hasClass('pkp_page_reviewer')) {ldelim}
-            var container = $('#aiReviewContainer');
-            if (container.length && !container.parent().is('#reviewStep3')) {ldelim}
-                container.prependTo('#reviewStep3').show();
-                container.css('margin-bottom', '20px');
-            {rdelim}
-        {rdelim}
-    {rdelim});
 
-    $(function() {ldelim}
-        // Initially hide until injected
-        $('#aiReviewContainer').hide();
-        
-        // If already on reviewer step 3
-        if ($('body').hasClass('pkp_page_reviewer') && $('#reviewStep3').length) {ldelim}
-            $('#aiReviewContainer').prependTo('#reviewStep3').show();
-            $('#aiReviewContainer').css('margin-bottom', '20px');
-        {rdelim}
-
-        $('#generateAiReviewBtn').on('click', function(e) {ldelim}
-            e.preventDefault();
-            
-            var btn = $(this);
-            var submissionId = btn.data('submission-id');
-            var match = window.location.pathname.match(/\/step\/(\d+)/);
-            var reviewAssignmentId = match ? match[1] : '';
-            var responseLanguage = $('#aiReviewLanguage').val();
-            var responseFormat = $('#aiReviewFormat').val();
-
-            btn.prop('disabled', true);
-            $('#aiReviewLoading').show();
-            $('#aiReviewResult').hide();
-
-            $.ajax({ldelim}
-                url: '{url router=$smarty.const.ROUTE_PAGE page="aireviewer" op="generate"}',
-                type: 'POST',
-                data: {ldelim}
-                    submissionId: submissionId,
-                    reviewAssignmentId: reviewAssignmentId,
-                    responseLanguage: responseLanguage,
-                    responseFormat: responseFormat,
-                    csrfToken: $('meta[name=csrf-token]').attr('content')
-                {rdelim},
-                success: function(response) {ldelim}
-                    $('#aiReviewLoading').hide();
-                    btn.prop('disabled', false);
-                    
-                    if (response.status) {ldelim}
-                        $('#aiReviewResult').text(response.content).show();
-                        
-                        // Add a small notification about the file being saved
-                        if ($('#aiFileSavedMsg').length === 0) {ldelim}
-                            $('<div id="aiFileSavedMsg" style="margin-top:10px; padding:10px; background:#d4edda; color:#155724; border:1px solid #c3e6cb; border-radius:4px;">' +
-                              '{translate key="plugins.generic.aiReviewer.button.saved"}' +
-                              ' <a href="javascript:location.reload();" style="font-weight:bold; color:#155724; text-decoration:underline;">Refresh page</a> to see it in your Review Files list.' +
-                              '</div>').insertAfter('#aiReviewResult');
-                        {rdelim}
-                    {rdelim} else {ldelim}
-                        alert('Error: ' + response.content);
-                    {rdelim}
-                {rdelim},
-                error: function(xhr, status, error) {ldelim}
-                    $('#aiReviewLoading').hide();
-                    btn.prop('disabled', false);
-                    alert('AJAX Error: ' + error);
-                {rdelim}
-            {rdelim});
-        {rdelim});
-    {rdelim});
-</script>
